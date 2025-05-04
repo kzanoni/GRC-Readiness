@@ -29,27 +29,32 @@ Everything in this repository is actionable, customizable, and designed for real
 ## Repository Structure
 
 ### `Compliance Checklists/`  
+
 Step-by-step readiness checklists for:
 - **SOC 2 Type II** (including all TSCs)
 - **ISO/IEC 27001:2022**  
+
 Each checklist includes assigned roles, required actions, example evidence, and mappings to NIST, ISO, COSO, HIPAA, PCI DSS, GDPR, COBIT, and CCPA.
 
 ---
 
 ### `Policy Templates/`  
+
 Editable, best-practice policy documents including:
 - Acceptable Use  
-- Access Control  
-- Incident Response  
-- Data Classification  
-- Business Continuity  
-- Privacy and Vendor Risk
+- Access Control
+- Business Continuity & Disaster Recovery
+- Data Classification 
+- Incident Response   
+- Privacy and Data Protection
+- Vendor Risk Management
 
 Each policy includes rationale and mappings to NIST SP 800-53 and ISO/IEC 27001 clauses.
 
 ---
 
 ### `Flowcharts/`  
+
 High-level diagrams that simplify core GRC processes such as:
 - SOC 2 readiness lifecycle  
 - Evidence collection workflows  
@@ -61,12 +66,14 @@ Ideal for use in stakeholder briefings, audits, and training.
 ---
 
 ### `Use Case Templates/`  
-Practical implementation examples for:
-- Vendor onboarding  
-- SOC 2 readiness for a startup  
+
+Examples for practical implementation:
+- ISO27001 Statement of Applicability (SOA)
+- Vendor Due Diligence Workflow  
+- Startup Security Roadmap
+- Security Awareness Program Rollout Plan  
 - Data access review  
-- IR tabletop exercises  
-- Policy rollout planning
+- IR tabletop exercises
 
 Each use case includes the scenario, control objectives, evidence strategy, and recommended tools.
 
