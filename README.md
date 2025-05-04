@@ -68,9 +68,9 @@ Ideal for use in stakeholder briefings, audits, and training.
 ### `Use Case Templates/`  
 
 Examples for practical implementation:
+- Startup Security Roadmap
 - ISO27001 Statement of Applicability (SOA)
 - Vendor Due Diligence Workflow  
-- Startup Security Roadmap
 - Security Awareness Program Rollout Plan  
 - Data access review  
 - IR tabletop exercises
