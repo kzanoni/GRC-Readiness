@@ -31,8 +31,8 @@ Everything in this repository is actionable, customizable, and designed for real
 ### `Compliance Checklists/`  
 
 Step-by-step readiness checklists for:
-- **SOC 2 Type II** (including all TSCs)
-- **ISO/IEC 27001:2022**  
+- [**SOC 2 Type II** (including all TSCs)](https://github.com/kzanoni/GRC-Readiness/blob/fd7c1e38c9adaf460ddcc5765d4c694463def9e4/01_SOC%202%20Readiness%20Checklist.docx)
+- [**ISO/IEC 27001:2022**](https://github.com/kzanoni/GRC-Readiness/blob/fd7c1e38c9adaf460ddcc5765d4c694463def9e4/02_ISO27001%20Readiness%20Checklist.docx)
 
 Each checklist includes assigned roles, required actions, example evidence, and mappings to NIST, ISO, COSO, HIPAA, PCI DSS, GDPR, COBIT, and CCPA.
 
@@ -68,12 +68,12 @@ Ideal for use in stakeholder briefings, audits, and training.
 ### `Use Case Templates/`  
 
 Examples for practical implementation:
-- ISO27001 Statement of Applicability (SOA)
-- Vendor Due Diligence Workflow  
-- Startup Security Roadmap
-- Security Awareness Program Rollout Plan  
-- Data access review  
-- IR tabletop exercises
+- [Startup Security Roadmap](https://github.com/kzanoni/GRC-Readiness/blob/51d1b5619fa746471f55914a193c188d84f4fc09/01_Startup%20Security%20Roadmap.docx)
+- [ISO27001 Statement of Applicability (SOA)](https://github.com/kzanoni/GRC-Readiness/blob/51d1b5619fa746471f55914a193c188d84f4fc09/02_ISO27001%20Statement%20of%20Applicability%20(SoA).docx)
+- [Vendor Due Diligence Workflow](https://github.com/kzanoni/GRC-Readiness/blob/51d1b5619fa746471f55914a193c188d84f4fc09/03_Vendor%20Due%20Diligence%20Workflow.docx)  
+- [Security Awareness Program Rollout Plan](https://github.com/kzanoni/GRC-Readiness/blob/51d1b5619fa746471f55914a193c188d84f4fc09/04_Security%20Awareness%20Program%20Rollout%20Plan.docx)  
+- Data access review (Coming Soon) 
+- IR tabletop exercises (Coming Soon)
 
 Each use case includes the scenario, control objectives, evidence strategy, and recommended tools.
 
