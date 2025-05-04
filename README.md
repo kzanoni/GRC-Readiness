@@ -29,28 +29,32 @@ Everything in this repository is actionable, customizable, and designed for real
 ## Repository Structure
 
 ### `Compliance Checklists/`  
+
 Step-by-step readiness checklists for:
-- [**SOC 2 Type II** (including all TSCs)](https://github.com/kzanoni/GRC-Readiness/blob/dc45e4ca98ecd8ae687b3fd6c7f49ff1f761e84e/ISO27001%20Readiness%20Checklist.docx)
-- [**ISO/IEC 27001:2022**](https://github.com/kzanoni/GRC-Readiness/blob/43cf15277b1a259afb8da7bdeb00debea49d4532/SOC%202%20Readiness%20Checklist.docx)
+- [**SOC 2 Type II** (including all TSCs)](https://github.com/kzanoni/GRC-Readiness/blob/fd7c1e38c9adaf460ddcc5765d4c694463def9e4/01_SOC%202%20Readiness%20Checklist.docx)
+- [**ISO/IEC 27001:2022**](https://github.com/kzanoni/GRC-Readiness/blob/fd7c1e38c9adaf460ddcc5765d4c694463def9e4/02_ISO27001%20Readiness%20Checklist.docx)
 
 Each checklist includes assigned roles, required actions, example evidence, and mappings to NIST, ISO, COSO, HIPAA, PCI DSS, GDPR, COBIT, and CCPA.
 
 ---
 
 ### `Policy Templates/`  
+
 Editable, best-practice policy documents including:
 - Acceptable Use  
-- Access Control  
-- Incident Response  
-- Data Classification  
-- Business Continuity  
-- Privacy and Vendor Risk
+- Access Control
+- Business Continuity & Disaster Recovery
+- Data Classification 
+- Incident Response   
+- Privacy and Data Protection
+- Vendor Risk Management
 
 Each policy includes rationale and mappings to NIST SP 800-53 and ISO/IEC 27001 clauses.
 
 ---
 
 ### `Flowcharts/`  
+
 High-level diagrams that simplify core GRC processes such as:
 - SOC 2 readiness lifecycle  
 - Evidence collection workflows  
@@ -62,12 +66,14 @@ Ideal for use in stakeholder briefings, audits, and training.
 ---
 
 ### `Use Case Templates/`  
-Practical implementation examples for:
-- Vendor onboarding  
-- SOC 2 readiness for a startup  
-- Data access review  
-- IR tabletop exercises  
-- Policy rollout planning
+
+Examples for practical implementation:
+- [Startup Security Roadmap](https://github.com/kzanoni/GRC-Readiness/blob/51d1b5619fa746471f55914a193c188d84f4fc09/01_Startup%20Security%20Roadmap.docx)
+- [ISO27001 Statement of Applicability (SOA)](https://github.com/kzanoni/GRC-Readiness/blob/51d1b5619fa746471f55914a193c188d84f4fc09/02_ISO27001%20Statement%20of%20Applicability%20(SoA).docx)
+- [Vendor Due Diligence Workflow](https://github.com/kzanoni/GRC-Readiness/blob/51d1b5619fa746471f55914a193c188d84f4fc09/03_Vendor%20Due%20Diligence%20Workflow.docx)  
+- [Security Awareness Program Rollout Plan](https://github.com/kzanoni/GRC-Readiness/blob/51d1b5619fa746471f55914a193c188d84f4fc09/04_Security%20Awareness%20Program%20Rollout%20Plan.docx)  
+- Data access review (Coming Soon) 
+- IR tabletop exercises (Coming Soon)
 
 Each use case includes the scenario, control objectives, evidence strategy, and recommended tools.
 
