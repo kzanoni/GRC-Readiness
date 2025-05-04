@@ -30,7 +30,7 @@ Everything in this repository is actionable, customizable, and designed for real
 
 ### `Compliance Checklists/`  
 Step-by-step readiness checklists for:
-- **SOC 2 Type II** (including all TSCs)
+- **SOC 2 Type II** (including all TSCs) https://github.com/kzanoni/GRC-Readiness/blob/dc45e4ca98ecd8ae687b3fd6c7f49ff1f761e84e/ISO27001%20Readiness%20Checklist.docx
 - **ISO/IEC 27001:2022**  
 Each checklist includes assigned roles, required actions, example evidence, and mappings to NIST, ISO, COSO, HIPAA, PCI DSS, GDPR, COBIT, and CCPA.
 
