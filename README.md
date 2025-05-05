@@ -41,7 +41,7 @@ Each checklist includes assigned roles, required actions, example evidence, and 
 ### `Policy Templates/`  
 
 Editable, best-practice policy documents including:
-- Acceptable Use  
+- [Acceptable Use](https://github.com/kzanoni/GRC-Readiness/blob/02_PolicyTemplates/Acceptable%20Use%20Policy%20Template.docx)  
 - Access Control
 - Business Continuity & Disaster Recovery
 - Data Classification 
