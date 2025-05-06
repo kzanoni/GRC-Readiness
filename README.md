@@ -34,7 +34,7 @@ Step-by-step readiness checklists for:
 - [**SOC 2 Type II** (including all TSCs)](https://github.com/kzanoni/GRC-Readiness/blob/fd7c1e38c9adaf460ddcc5765d4c694463def9e4/01_SOC%202%20Readiness%20Checklist.docx)
 - [**ISO/IEC 27001:2022**](https://github.com/kzanoni/GRC-Readiness/blob/fd7c1e38c9adaf460ddcc5765d4c694463def9e4/02_ISO27001%20Readiness%20Checklist.docx)
 
-Each checklist includes assigned roles, required actions, example evidence, and mappings to NIST, ISO, COSO, HIPAA, PCI DSS, GDPR, COBIT, and CCPA.
+Each checklist includes assigned roles, required actions, example evidence, and mappings to applicable NIST, ISO, COSO, HIPAA, PCI DSS, GDPR, COBIT, and CCPA frameworks.
 
 ---
 
@@ -49,7 +49,7 @@ Editable, best-practice policy documents including:
 - [Privacy and Data Protection](https://github.com/kzanoni/GRC-Readiness/blob/02_PolicyTemplates/06_Privacy%20and%20Data%20Protection%20Policy%20Template.docx)
 - [Vendor Risk Management](https://github.com/kzanoni/GRC-Readiness/blob/02_PolicyTemplates/07_Vendor%20Risk%20Management%20Policy%20Template.docx)
 
-Each policy includes rationale and mappings to NIST SP 800-53 and ISO/IEC 27001 clauses.
+Each policy includes rationale and mappings to NIST SP 800-53 and ISO/IEC 27001 clauses and other applicable frameworks.
 
 ---
 
@@ -75,7 +75,7 @@ Examples for practical implementation:
 - Data access review (Coming Soon) 
 - IR tabletop exercises (Coming Soon)
 
-Each use case includes the scenario, control objectives, evidence strategy, and recommended tools.
+Each use case document includes control objectives, evidence strategy, and recommended tools and may be tailored to the appropriate context.
 
 ---
 
