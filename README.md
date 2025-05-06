@@ -41,13 +41,13 @@ Each checklist includes assigned roles, required actions, example evidence, and 
 ### `Policy Templates/`  
 
 Editable, best-practice policy documents including:
-- [Acceptable Use](https://github.com/kzanoni/GRC-Readiness/blob/02_PolicyTemplates/Acceptable%20Use%20Policy%20Template.docx)  
-- Access Control
-- Business Continuity & Disaster Recovery
-- Data Classification 
-- Incident Response   
-- Privacy and Data Protection
-- Vendor Risk Management
+- [Acceptable Use](https://github.com/kzanoni/GRC-Readiness/blob/02_PolicyTemplates/01_Acceptable%20Use%20Policy%20Template.docx)  
+- [Access Control](https://github.com/kzanoni/GRC-Readiness/blob/02_PolicyTemplates/02_Access%20Control%20Policy%20Template.docx)
+- [Disaster Recovery](https://github.com/kzanoni/GRC-Readiness/blob/02_PolicyTemplates/03_Disaster%20Recovery%20Policy%20Template.docx)
+- [Data Classification](https://github.com/kzanoni/GRC-Readiness/blob/02_PolicyTemplates/04_Data%20Classification%20Policy%20Template.docx) 
+- [Incident Response](https://github.com/kzanoni/GRC-Readiness/blob/02_PolicyTemplates/05_Incident%20Response%20Policy%20Template.docx)   
+- [Privacy and Data Protection](https://github.com/kzanoni/GRC-Readiness/blob/02_PolicyTemplates/06_Privacy%20and%20Data%20Protection%20Policy%20Template.docx)
+- [Vendor Risk Management](https://github.com/kzanoni/GRC-Readiness/blob/02_PolicyTemplates/07_Vendor%20Risk%20Management%20Policy%20Template.docx)
 
 Each policy includes rationale and mappings to NIST SP 800-53 and ISO/IEC 27001 clauses.
 
